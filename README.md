@@ -6,6 +6,7 @@ Hitter veri seti ile makine ögrenmesi projesi yaptım.
 
 
 Kullanılan kütüphaneler
-
+pandas
+Numpy
 
 
