@@ -6,7 +6,7 @@ Hitter veri seti ile makine ögrenmesi projesi yaptım.
 
 
 Kullanılan kütüphaneler :
-<p align="leftleft">1.Ppandas  </p>
+<p align="leftleft">1. Pandas  </p>
 <p align="left">2. Numpy </a></p>
 <p align="left">3. Seaborn</a></p>
 
